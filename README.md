@@ -61,8 +61,6 @@ Currently     → DSA (Striver's Sheet) | Backend (exploring)
 
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxhawkinz&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maxhawkinz&theme=tokyonight&hide_border=true)
 
 </div>
