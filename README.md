@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Maxhawkinz/Maxhawkinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ajay Thakare 👋
+### Computer Engineering Student | Android Developer | Problem Solver
 
-Here are some ideas to get you started:
+*"Building things that matter, one commit at a time."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay_Thakare-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajay-thakare-a03494328)
+[![GitHub](https://img.shields.io/badge/GitHub-Maxhawkinz-181717?style=for-the-badge&logo=github)](https://github.com/Maxhawkinz)
+[![Email](https://img.shields.io/badge/Email-ajaythakare500@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ajaythakare500@gmail.com)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 **Computer Engineering Student** @ NMIET (4th Semester)
+- 📱 Building Android apps with **Java & Kotlin**
+- 🧩 Grinding **DSA** on LeetCode via Striver's Sheet
+- 🤖 Certified in **Google IT Automation** & Amazon Jr. Software Engineering
+- 💡 I love solving problems — quizzes, logic puzzles, real-world challenges
+- ✍️ Fun fact: I write poetry in my free time
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages     → Java | Kotlin | Python (basics)
+Mobile        → Android Development | Flutter (learning)
+Tools         → Git | GitHub | Android Studio
+Automation    → Google IT Automation
+Currently     → DSA (Striver's Sheet) | Backend (exploring)
+```
+
+---
+
+## 🚀 Projects
+
+### 📚 SkillShare Platform
+> A platform for sharing and discovering skills among students
+- Built with Java | Android
+- [View Repo →](#)
+
+### 🌿 AyurAI
+> AI-powered Ayurvedic health assistant app
+- Built with Android | Java
+- [View Repo →](#)
+
+### 📖 DSA for College
+> Curated DSA problems and solutions for college students
+- Java based solutions following Striver's Sheet
+- [View Repo →](#)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxhawkinz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Maxhawkinz&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] Complete Striver's DSA Sheet
+- [ ] Build & deploy 2 real Android apps
+- [ ] Land a Software Engineering Internship
+- [ ] Contribute to Open Source
+- [ ] Crack FAANG internship prep
+
+---
+
+## 📜 Certifications
+
+- 🏅 Amazon Jr. Software Engineer Certificate
+- 🏅 Google IT Automation with Python
+- 🏅 Android Development — Udemy
+- 🏅 Flutter Development — Angela Yu (Udemy)
+
+---
+
+<div align="center">
+
+*"Code is like poetry — it's not just about making it work, it's about making it beautiful."*
+
+⭐ **If you find my work useful, drop a star!**
+
+</div>
