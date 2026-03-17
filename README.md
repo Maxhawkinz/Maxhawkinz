@@ -41,7 +41,7 @@ Currently     → DSA (Striver's Sheet) | Backend (exploring)
 ### 📚 SkillShare Platform
 > A platform for sharing and discovering skills among students
 - Built with Java | Android
-- [View Repo →](#)
+- [View Repo →](https://github.com/Maxhawkinz/skillshare)
 
 ### 🌿 AyurAI
 > AI-powered Ayurvedic health assistant app
