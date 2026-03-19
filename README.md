@@ -43,15 +43,12 @@ Currently     → DSA (Striver's Sheet) | Backend (exploring)
 - Built with Java | Android
 - [View Repo →](https://github.com/Maxhawkinz/skillshare)
 
-### 🌿 AyurAI
-> AI-powered Ayurvedic health assistant app
-- Built with Android | Java
-- [View Repo →](#)
+### 🌿 Portfolio
+> An Introductory platform
+- Built with html|js|css
+- [View Repo →](https://maxhawkinz.github.io/portfolio/)
 
-### 📖 DSA for College
-> Curated DSA problems and solutions for college students
-- Java based solutions following Striver's Sheet
-- [View Repo →](#)
+
 
 ---
 
