@@ -45,7 +45,7 @@ Currently     → DSA (Striver's Sheet) | Backend (exploring)
 
 ### 🌿 Portfolio
 > An Introductory platform
-- Built with html|js|css
+- Built with html | js | css
 - [View Repo →](https://github.com/Maxhawkinz/portfolio)
 
 
