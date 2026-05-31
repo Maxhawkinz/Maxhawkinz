@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hey, I'm Ajay Thakare 👋
-### Computer Engineering Student | Android Developer | Problem Solver
+# Ajay Thakare
+### Computer Engineering Student · Android Developer · Problem Solver
 
 *"Building things that matter, one commit at a time."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay_Thakare-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajay-thakare-a03494328)
-[![GitHub](https://img.shields.io/badge/GitHub-Maxhawkinz-181717?style=for-the-badge&logo=github)](https://github.com/Maxhawkinz)
-[![Email](https://img.shields.io/badge/Email-ajaythakare500@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ajaythakare500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay_Thakare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-thakare-a03494328)
+[![GitHub](https://img.shields.io/badge/GitHub-Maxhawkinz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maxhawkinz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maxhawkinz.github.io-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://maxhawkinz.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-ajaythakare500%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaythakare500@gmail.com)
 
 </div>
 
@@ -15,11 +16,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **Computer Engineering Student** @ NMIET (4th Semester)
-- 📱 Building Android apps with **Java & Kotlin**
+- 🎓 **SE Computer Engineering** @ NMIET Pune (SPPU 2024 NEP)
+- 💻 Building Android apps, web pages, and software that solves real problems
 - 🧩 Grinding **DSA** on LeetCode via Striver's Sheet
-- 🤖 Certified in **Google IT Automation** & Amazon Jr. Software Engineering
-- 💡 I love solving problems — quizzes, logic puzzles, real-world challenges
+- 🤖 Completed **AICTE Java Full Stack Virtual Internship**
+- 🏆 Participated in **6+ hackathons**
+- 💡 Exploring **DevOps & Cloud** for the long game
 - ✍️ Fun fact: I write poetry in my free time
 
 ---
@@ -27,28 +29,27 @@
 ## 🛠️ Tech Stack
 
 ```
-Languages     → Java | Kotlin | Python (basics)
-Mobile        → Android Development | Flutter (learning)
-Tools         → Git | GitHub | Android Studio
-Automation    → Google IT Automation
-Currently     → DSA (Striver's Sheet) | Backend (exploring)
+Languages     → Java | Kotlin | JavaScript | Python (basics)
+Mobile        → Android (Java/Kotlin)
+Web           → HTML | CSS | JavaScript | React | Node.js
+Database      → MongoDB | SQL
+Tools         → Git | GitHub | Android Studio | VS Code
+Currently     → DSA (Striver's Sheet) | DevOps & Cloud (exploring)
 ```
 
 ---
 
 ## 🚀 Projects
 
-### 📚 SkillShare Platform
-> A platform for sharing and discovering skills among students
-- Built with Java | Android
+### 📱 SkillShare Platform
+> Peer-to-peer campus marketplace for NMIET students — discover, offer, and exchange skills
+- Built with **Java · Android**
 - [View Repo →](https://github.com/Maxhawkinz/skillshare)
 
-### 🌿 Portfolio
-> An Introductory platform
-- Built with html | js | css
-- [View Repo →](https://github.com/Maxhawkinz/portfolio)
-
-
+### 🌐 Portfolio
+> Personal portfolio with dark minimal design, animated cursor & EmailJS contact form
+- Built with **HTML · CSS · JavaScript**
+- [Live →](https://maxhawkinz.github.io/portfolio) · [View Repo →](https://github.com/Maxhawkinz/portfolio)
 
 ---
 
@@ -57,36 +58,47 @@ Currently     → DSA (Striver's Sheet) | Backend (exploring)
 <div align="center">
 
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maxhawkinz&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## 🏆 Hackathons
 
-- [ ] Complete Striver's DSA Sheet
-- [ ] Build & deploy 2 real Android apps
-- [ ] Land a Software Engineering Internship
-- [ ] Contribute to Open Source
-- [ ] Crack FAANG internship prep
+| Hackathon | Organizer |
+|-----------|-----------|
+| AlphaByte 2.0 | — |
+| Odoo × Mindbend '25 | SVNIT Surat |
+| INDRADHANU | — |
+| Vortexa 2.0 | — |
+| Internal SIH 2025 | NMIET |
+| CodeArena 3.0 | — |
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Amazon Jr. Software Engineer Certificate
-- 🏅 Google IT Automation with Python
-- 🏅 Android Development — Udemy
-- 🏅 Flutter Development — Angela Yu (Udemy)
+- 🏅 **Amazon Jr. Software Developer** — Amazon
+- 🏅 **Java Full Stack Virtual Internship** — AICTE
+- 🏅 **Android Development** — Udemy
+- 🏅 **IBM** — IBM
+- 🏅 **HP LIFE** — HP
+- 🏅 **L&T EduTech** — L&T
 
 ---
 
-<div align="center">
+## 🎯 2025–2026 Goals
+
+- [ ] Complete Striver's DSA Sheet
+- [ ] Build & deploy 2 production-ready Android apps
+- [ ] Land a **Software Engineering Internship** (targeting Jan 2027)
+- [ ] Contribute to Open Source
+- [ ] Get solid with **DevOps & Cloud basics**
+- [ ] Begin FAANG-tier interview prep
+
+---
 
 *"Code is like poetry — it's not just about making it work, it's about making it beautiful."*
 
 ⭐ **If you find my work useful, drop a star!**
-
-</div>
