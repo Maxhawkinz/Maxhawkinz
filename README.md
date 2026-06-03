@@ -2,7 +2,6 @@
 
 # Ajay Thakare
 ### Computer Engineering Student · Android Developer · Problem Solver
-
 *"Building things that matter, one commit at a time."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay_Thakare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-thakare-a03494328)
@@ -28,14 +27,12 @@
 
 ## 🛠️ Tech Stack
 
-```
 Languages     → Java | Kotlin | JavaScript | Python (basics)
 Mobile        → Android (Java/Kotlin)
 Web           → HTML | CSS | JavaScript | React | Node.js
 Database      → MongoDB | SQL
 Tools         → Git | GitHub | Android Studio | VS Code
 Currently     → DSA (Striver's Sheet) | DevOps & Cloud (exploring)
-```
 
 ---
 
@@ -57,7 +54,7 @@ Currently     → DSA (Striver's Sheet) | DevOps & Cloud (exploring)
 
 <div align="center">
 
-![Ajay's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400))
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maxhawkinz&theme=tokyonight&hide_border=true)
 
 </div>
@@ -90,12 +87,12 @@ Currently     → DSA (Striver's Sheet) | DevOps & Cloud (exploring)
 
 ## 🎯 2025–2026 Goals
 
-- [ ] Complete Striver's DSA Sheet
-- [ ] Build & deploy 2 production-ready Android apps
-- [ ] Land a **Software Engineering Internship** (targeting Jan 2027)
-- [ ] Contribute to Open Source
-- [ ] Get solid with **DevOps & Cloud basics**
-- [ ] Begin FAANG-tier interview prep
+- ⬜ Complete Striver's DSA Sheet
+- ⬜ Build & deploy 2 production-ready Android apps
+- ⬜ Land a **Software Engineering Internship** (targeting Jan 2027)
+- ⬜ Contribute to Open Source
+- ⬜ Get solid with **DevOps & Cloud basics**
+- ⬜ Begin FAANG-tier interview prep
 
 ---
 
