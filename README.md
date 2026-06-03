@@ -57,7 +57,7 @@ Currently     → DSA (Striver's Sheet) | DevOps & Cloud (exploring)
 
 <div align="center">
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true)
+![Ajay's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Maxhawkinz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400))
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maxhawkinz&theme=tokyonight&hide_border=true)
 
 </div>
